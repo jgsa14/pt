@@ -1,0 +1,35 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: beige;
+    justify-content: center;
+}
+LI{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: #111;
+    text-align: center;
+    padding: 20px 65.3px;
+    text-decoration: none;
+    justify-content: center;
+}
+
+li a:hover {
+    background-color: white;
+}
+header{
+    display: block;
+    background-color: beige;
+    text-align: center;
+    padding: 10px;
+}
+
+table{
+    background-color: beige;
+    border-color: white;
+}
